@@ -1,0 +1,13 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    margin: 20px;
+}
+.video-container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+.video-item {
+    margin: 10px;
+}
